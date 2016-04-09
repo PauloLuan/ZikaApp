@@ -32,7 +32,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View v) {
-
         Intent i = new Intent(MainActivity.this, MapsActivity.class);
         startActivity(i);
     }

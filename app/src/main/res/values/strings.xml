@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HackaDengue</string>
+    <string name="app_name">Aedes X9</string>
     <string name="tirar">Tirar foto</string>
     <string name="title_activity_maps">Map</string>
     <string name="title_activity_maps2">Map</string>
@@ -14,4 +14,6 @@
         <item>Casa/Prédio abandonado</item>
         <item>Outros</item>
     </string-array>
+    <string name="action_settings">Settings</string>
+
 </resources>
